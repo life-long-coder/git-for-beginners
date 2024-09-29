@@ -1,4 +1,4 @@
 WELCOME TO MY PROJECT
 
-Author :Thomas
+Author :Thomas Huber
 Twiter :@shubhadaWorld
